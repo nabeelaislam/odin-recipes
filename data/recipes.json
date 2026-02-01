@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "fish-kofta",
+    "title": "Fish Kofta",
+    "origin": "Baba",
+    "image": "images/fish-kofta.jpg",
+    "description": "",
+    "category": ["Curry", "Seafood", "Pakistani"],
+    "ingredients": [
+      "catfish filets",
+      "cilantro stems",
+      "1 jalapeno",
+      "cumin",
+      "coriander",
+      "red pepper powder",
+      "ginger paste (~1 tbsp per 6 filets)",
+      "garlic paste (~1 tbsp per 6 filets)",
+      "besan flour",
+      "2 eggs (per 6 filets)",
+      "1 onion",
+      "½ jalapeno",
+      "vegetable oil",
+      "cumin seeds",
+      "dried red peppers",
+      "black pepper",
+      "fresh coriander",
+      "garam masala",
+      "Italian tomatoes",
+      "almond flour",
+      "yogurt",
+      "water"
+    ]
+    ,
+    "steps": [
+      "Fish Mixture:",
+        "Put cilantro stems and 1 jalapeno in food processor. Pulse, not completely blend. Put in a separate bowl.",
+        "Slice catfish filets into thirds and put in food processor. Pulse, but more finely than the cilantro mix.",
+        "Put cumin, coriander and red pepper powder in a bowl. Mix with ginger and garlic paste (around 1 tbsp per 6 filets) add to filet mixture.",
+        "Add besan flour to the mixture.",
+        "Add 2 eggs (per 6 filet).",
+        "Form into small balls and deep fry.",
+      
+      "Gravy:", 
+        "Add 1 onion or onion paste, ½ jalapeno to food processor to finely dice.",
+        "Add a lot of vegetable oil to a pot with cumin seed and dried red peppers for “aroma”.",
+        "Add in onion/jalapeno to the oil.",
+        "Create spice mixture- black pepper, cumin, fresh coriander, garam masala (homemade).",
+        "Add spices to onion/jalapeno mix once browned.",
+        "Add a couple crushed Italian tomatoes to the mixture.",
+        "Mix together almond flour with cold water. Add yogurt to this mixture. Add to full gravy mixture on the stovetop.",
+        "Mix the fried fish balls with the gravy mixture, add water so they are all covered.",
+        "When you see separation of the oil then it is ready to be served."
+      
+    ],
+    "notes": ""
+  },
+
+  {
+    "id": "black-chana",
+    "title": "Black Chana",
+    "origin": "Baba",
+    "image": "images/black-chana.jpg",
+    "description": "",
+    "category": ["Vegetarian", "Pakistani"],
+    "ingredients": [
+      "black chana beans",
+      "1 onion",
+      "potatos",
+      "1 spoonful ghee or vegetable oil",
+      "cumin",
+      "turmeric",
+      "chana masala",
+      "ginger garlic paste",
+      "dried red peppers",
+      "rose water",
+      "water"
+    ]
+    ,    
+    "steps": [
+      "Soak black chana beans overnight.",
+      "Cover beans in water in the pressure cooker and put over heat to soften for 30 minutes.",
+      "While bean cooks cut 1 onion into thin slices and cut peeled potato into thin cubes.",
+      "Let cubed potatoes soak in water so they don’t oxidize.",
+      "Add potatoes to the black chana beans w/water from the beans- cook until water is completely evaporated.",
+      "Add 1 spoonful of ghee and vegetable oil.",
+      "Add in spice mixture: cumin, turmeric, chana masala, ginger garlic paste can add some dried red peppers.",
+      "Add in thinly sliced onions.",
+      "Add a little bit of rose water.",
+      "Keep on the heat for 10-15 minutes."
+    ],
+    "notes": ""
+  },
+
+  {
+    "id": "crispy-fried-fish-fruit",
+    "title": "Crispy Fried Fish with Combination Fruits",
+    "origin": "Baba",
+    "image": "images/crispy-fried-fish-fruit.jpg",
+    "description": "",
+    "category": ["Seafood"],
+    "ingredients": [
+      "fish filets",
+      "cornstarch",
+      "oil",
+      "garlic",
+      "mango",
+      "pineapple",
+      "banana",
+      "strawberries",
+      "peach",
+      "sweet and spicy sauce",
+      "soy sauce",
+      "oyster sauce",
+      "fish sauce",
+      "½ tbsp brown sugar",
+      "green onion"
+    ]
+    ,    
+    "steps": [
+      "Cover fish of choice (filet) with cornstarch and deep-fry in oil.",
+      "Take fish out and put on separate plate.",
+      "In a separate pan, saute garlic in oil and add fruit mixture of choice- normally mango, pineapple, banana, strawberries, peach, cook on high flame.",
+      "Add sweet and spicy sauce, soy sauce, oyster sauce, fish sauce and ½ tbsp brown sugar.",
+      "Add green onion at the end (don’t overcook to keep green color).",
+      "Cook until all water evaporated and dried out/oil is separated from rest of the fruits.",
+      "Pour on top of crispy fried fish and serve immediately."
+    ],
+    "notes": "Do not cook dish ahead of time. Should be 10-15 minutes before scheduled dinner. If served late the fish gets soggy and less crispy."
+  },
+
+  {
+    "id": "lahori-chickpeas",
+    "title": "Lahori Chickpeas",
+    "origin": "Baba",
+    "image": "images/lahori-chickpeas.jpg",
+    "description": "Lahor is a city in Pakistan.",
+    "category": ["Curry", "Vegetarian", "Pakistani"],
+    "ingredients": [
+      "onion",
+      "potato",
+      "1 cup chickpeas (for paste)",
+      "chickpeas (whole, canned)",
+      "oil",
+      "ginger paste",
+      "garlic paste",
+      "coriander",
+      "cumin powder",
+      "green chiles",
+      "red chile powder",
+      "½ cup yogurt",
+      "salt",
+      "½ cup water"
+    ]
+    ,    
+    "steps": [
+      "Paste medium sized onion in the food processor and put aside.",
+      "Boil medium sized potato and paste it in the food processor, set aside.",
+      "Paste a cup of chickpeas and put aside.",
+      "In a pot, add oil, when oil is heated add the onion paste, then add ginger/garlic paste, coriander, cumin powder and green chiles and red chile powder.",
+      "Add ½ cup of water and cook so spices are not burned.",
+      "When water is completely evaporated, add the onion paste, chickpea paste and ½ cup yogurt.",
+      "Add salt to taste.",
+      "Cook until water is evaporated.",
+      "Then add whole canned chickpeas and ½ cup of water and cook on low flame."
+    ],
+    "notes": {
+      "text": "Iftar Pakistani style chickpeas (Chana chaat)",
+      "link": {
+        "label": "Chana Chaat recipe",
+        "url": "https://www.eatdrinkpure.com/chana-chaat-quick-and-easy/#recipe"
+      }
+    }    
+  },
+
+  {
+    "id": "babaganoush",
+    "title": "Babaganoush",
+    "origin": "Baba",
+    "image": "images/babaganoush.jpg",
+    "description": "",
+    "category": ["Vegetarian", "Persian"],
+    "ingredients": [
+      "1–2 eggplants",
+      "1 lemon",
+      "tahini (2 tbsp per eggplant)",
+      "plain nonfat yogurt (2 tbsp per eggplant)",
+      "2 large garlic cloves",
+      "salt",
+      "black pepper",
+      "sumac",
+      "paprika",
+      "olive oil"
+    ]
+    ,    
+    "steps": [
+      "Roast 1-2 eggplants (stove, oven, grill)- the best is on the grill for smoky flavor.",
+      "After the eggplants are well-cooked, spoon out the inner part of the eggplant and put in a strainer to get rid of excess water.",
+      "After draining, add eggplant to a big bowl.",
+      "Squeeze 1 lemon, 2 tablespoons of tahini per medium-sized eggplant, 2 tablespoons plain nonfat yogurt per medium sized-eggplant, 2 large cloves of shredded garlic, salt to taste.",
+      "Mix by hand.",
+      "Put on flat plate and decorate with black pepper, sumac, paprika.",
+      "Put in refrigerator and serve with olive oil."
+    ],
+    "notes": ""
+  },
+
+  {
+    "id": "mixed-vegetables",
+    "title": "Mixed Vegetables",
+    "origin": "Baba",
+    "image": "images/mixed-vegetables.jpg",
+    "description": "",
+    "category": ["Vegetarian"],
+    "ingredients": [
+      "1 medium onion",
+      "garlic",
+      "ginger paste",
+      "coriander",
+      "cumin",
+      "1 tsp turmeric",
+      "tandoori masala",
+      "potatoes",
+      "tomatoes",
+      "cauliflower",
+      "green beans",
+      "snow peas",
+      "½ green cabbage",
+      "salt"
+    ]
+    ,    
+    "steps": [
+      "Fry medium sized onion in a pot, saute until brown.",
+      "Add garlic slice fresh.",
+      "Add tablespoon of ginger/garlic paste, coriander and cumin, 1 tsp turmeric.",
+      "Put flame down otherwise it will get burned.",
+      "Add tandoori masala.",
+      "Add vegetables you want- potatoes, fresh tomatoes, cauliflower (frozen), green beans (frozen), snow peas (frozen), ½ green cabbage.",
+      "Since these are frozen vegetables don’t put any water.",
+      "Add salt as needed and mix well.",
+      "Cook on high flame with no lid for 5-10 min until all water evaporated.",
+      "Then keep vegetables on low flame with lid for 15 min until all cooked."
+    ],
+    "notes": "Alternative versions: okra and potato; badamjoon + potato + pea version (onions go in last)."
+  },
+
+  {
+    "id": "okra-stew-beef",
+    "title": "Okra Stew with Beef",
+    "origin": "Baba",
+    "image": "images/okra-stew-beef.jpg",
+    "description": "",
+    "category": ["Stew", "Beef", "Pakistani"],
+    "ingredients": [
+      "beef",
+      "water",
+      "garlic cloves",
+      "frozen okra",
+      "lemon juice",
+      "onion",
+      "oil",
+      "garam masala",
+      "coriander",
+      "cumin",
+      "ginger paste",
+      "garlic paste",
+      "Italian tomatoes",
+      "2 tbsp whole milk yogurt"
+    ]
+    ,    
+    "steps": [
+      "Put meat in a pressure cooker for 30 min with water and garlic cloves.",
+      "Saute frozen okra with lemon juice.",
+      "Slice onions and saute with oil until brown.",
+      "Add spice mix: garam masala, coriander, cumin, ginger/garlic paste.",
+      "Put on low flame when adding spices.",
+      "Add whole peeled Italian tomatoes.",
+      "Add 2 tablespoons whole milk yogurt.",
+      "Add meat and sauteed okra to the sauce.",
+      "Add water from pressure cooker and simmer on low flame for 10-15 min."
+    ],
+    "notes": {
+      "text": "Middle Eastern style reference",
+      "link": {
+        "label": "Okra Stew (Middle Eastern style)",
+        "url": "https://falasteenifoodie.com/okra-stew/"
+      }
+    }    
+  },
+
+  {
+    "id": "mowgli-parata",
+    "title": "Mowgli Parata",
+    "origin": "Baba",
+    "image": "images/mowgli-parata.jpg",
+    "description": "",
+    "category": ["Bread"],
+    "ingredients": [
+      "flour",
+      "yogurt",
+      "milk",
+      "salt",
+      "baking soda",
+      "ghee",
+      "coriander",
+      "garlic",
+      "meat"
+    ],    
+    "steps": [
+      "Mix regular flour with yogurt and some milk to make dough.",
+      "Add salt and pinch of baking soda.",
+      "Cover the dough in dark place for 2 hours.",
+      "Make a square with the dough and fold filling inside.",
+      "Fry in a pan with ghee."
+    ],
+    "notes": "Do not use too much baking soda or it will fluff too much."
+  },
+
+  
+    {
+      "id": "keema-aloo",
+      "title": "Keema Aloo",
+      "origin": "Baba",
+      "image": "images/keema-aloo.jpg",
+      "description": "Ground meat with potato cubes and sweet peas.",
+      "category": ["Beef", "Pakistani"],
+      "ingredients": [
+        "onion",
+        "oil",
+        "1 tbsp garlic paste",
+        "1 tbsp ginger paste",
+        "fresh coriander",
+        "cumin powder",
+        "½ tbsp black pepper",
+        "dried red chili",
+        "ground beef",
+        "potatoes",
+        "sweet peas",
+        "1 tbsp ghee",
+        "water"
+      ]
+      ,      
+      "steps": [
+        "Thinly slice onion and fry it with oil until it becomes brown.",
+        "Reduce the flame to a minimum.",
+        "In a cup, take mixture of onion.",
+        "In a separate bowl take 1 tbsp garlic paste, 1 tbsp ginger paste, freshly minced coriander and cumin powder, ½ tbsp black pepper, few dried red chili.",
+        "Mix this with onion and cook slowly, add water from time to time to avoid burning.",
+        "Add ground beef- 70 meat/30 fat with potato cubes and sweet peas.",
+        "Cook at medium flame until potatoes are all soft.",
+        "After completely cooked, take another fry pan with 1 tbsp of ghee, thinly sliced onion- fry onions until brown.",
+        "Add as garnish on top, can mix.",
+        "Serve nicely."
+      ],
+      "notes": ""
+    },
+  
+    {
+      "id": "ketchup-chicken",
+      "title": "Ketchup Chicken",
+      "origin": "Baba",
+      "image": "images/ketchup-chicken.jpg",
+      "description": "",
+      "category": ["Curry", "Chicken"],
+      "ingredients": [
+        "2 shallots",
+        "ghee",
+        "chicken",
+        "oil",
+        "black pepper",
+        "coriander seeds",
+        "cumin seeds",
+        "red pepper",
+        "2 tbsp garlic paste",
+        "2 tbsp ginger paste",
+        "cashews",
+        "almond flour",
+        "1 red onion",
+        "whole milk yogurt",
+        "ketchup",
+        "1 spoon brown sugar",
+        "garam masala",
+        "bay leaf",
+        "cardamom",
+        "cinnamon stick"
+      ]
+      ,      
+      "steps": [
+        "Fry sliced shallots (2) until totally brown with ghee. Take out and put to the side for the end.",
+        "Fry chicken in oil on high flame.",
+        "Prepare spice mixture: black pepper, coriander, cumin, red pepper.",
+        "Buy coriander and cumin seeds, wash them, roast them and grind them.",
+        "Add 2 tablespoons of garlic paste and ginger paste.",
+        "Make cashew flour paste using raw cashews or almond flour mixed with water.",
+        "Slice 1 red onion and add to chicken once browned.",
+        "Add in spices.",
+        "When onion is soft, add cashew/almond flour paste and whole milk plain yogurt.",
+        "In a separate pan add ketchup and oil.",
+        "Add the fried shallots mixture.",
+        "Add 1 spoon of brown sugar.",
+        "Add this mixture to the chicken mixture.",
+        "Sprinkle garam masala at the end.",
+        "Keep covered in the pot for a little bit to make sure it’s cooked."
+      ],
+      "notes": "Optional at beginning: bay leaf, cardamom seed, cinnamon stick. Baba doesn’t like this, but Mommy does."
+    },
+  
+    {
+      "id": "egg-masala",
+      "title": "Egg Masala",
+      "origin": "Baba",
+      "image": "images/egg-masala.jpg",
+      "description": "",
+      "category": ["Curry", "Vegetarian"],
+      "ingredients": [
+        "eggs",
+        "red onion",
+        "oil",
+        "coriander",
+        "cumin",
+        "red pepper",
+        "black pepper",
+        "garlic paste",
+        "ginger paste",
+        "tomato",
+        "green pepper",
+        "water"
+      ],      
+      "steps": [
+        "Hard boil eggs.",
+        "Put eggs in fry pan until brown on all sides.",
+        "Remove from pan and put aside.",
+        "Fry sliced red onion in the pan.",
+        "Add coriander, cumin, red pepper, black pepper, garlic paste, ginger paste.",
+        "Add in sliced tomato and green pepper.",
+        "Cook until moist, add water as needed.",
+        "Add eggs back in and mix."
+      ],
+      "notes": "Masala = dried. Boona = jelly-like. Curry = water-like."
+    },
+  
+    {
+      "id": "pulao-rice",
+      "title": "Pulao Rice",
+      "origin": "Baba",
+      "image": "images/pulao-rice.jpg",
+      "description": "",
+      "category": ["Rice"],
+      "ingredients": [
+        "1 stick butter",
+        "rice",
+        "water (1.5 cups per cup rice)",
+        "chicken broth cubes",
+        "vegetable broth cubes",
+        "peas"
+      ]
+      ,      
+      "steps": [
+        "Fry 1 stick of butter and add washed rice and stir for 5-10 minutes until some grains become brown.",
+        "For each cup of rice add 1.5 cups of water.",
+        "Use chicken broth cubes or vegetable broth cube.",
+        "Put it in the rice cooker.",
+        "Add peas."
+      ],
+      "notes": ""
+    },
+  
+    {
+      "id": "murghee-masala",
+      "title": "Murghee Masala",
+      "origin": "Baba",
+      "image": "images/murghee-masala.jpg",
+      "description": "",
+      "category": ["Curry", "Chicken"],
+      "ingredients": [
+        "chicken",
+        "oil",
+        "salt",
+        "white onion",
+        "red onion",
+        "red pepper",
+        "black pepper",
+        "coriander",
+        "cumin",
+        "kashmiri pepper",
+        "ginger paste",
+        "garlic paste",
+        "tomatoes",
+        "2 tbsp greek yogurt"
+      ],
+      "steps": [
+        "Fry chicken in a ton of oil with a little bit of salt at high temperature.",
+        "Add in very thinly sliced white onion.",
+        "Add in spice mix: red pepper, black pepper, coriander, cumin, kashmiri pepper, ginger and garlic paste.",
+        "Turn the temperature down to low so that the spices don’t burn.",
+        "Add in thick slices of red onion and the tomatoes.",
+        "Add 2 tablespoons of greek yogurt.",
+        "Bring the temperature down to medium, cover and cook for around 10 minutes."
+      ],
+      "notes": "Don’t add water or else it will be like Mommy’s cooking."
+    },
+  
+    {
+      "id": "chicken-karahi",
+      "title": "Chicken Karahi",
+      "origin": "Baba",
+      "image": "images/chicken-karahi.jpg",
+      "description": "Karahi is like an Indian wok.",
+      "category": ["Curry", "Chicken", "Pakistani"],
+      "ingredients": [
+        "oil",
+        "cumin seeds",
+        "coriander seeds",
+        "green peppers",
+        "chicken",
+        "ginger paste",
+        "garlic paste",
+        "turmeric",
+        "kashmiri pepper",
+        "cumin",
+        "coriander",
+        "black pepper",
+        "onion",
+        "tomatoes",
+        "water"
+      ],
+      "steps": [
+        "Fry in oil cumin seed, coriander seeds and little green peppers on high.",
+        "Add in chicken small cuts of chicken.",
+        "Add in the masala: ginger and garlic paste, turmeric, kashmiri pepper, cumin, coriander, black pepper.",
+        "Add some water if needed.",
+        "Add in onions and sliced tomatoes at the end and cover.",
+        "Put on a HIGH flame.",
+        "You will know it is done when the oil separates from the water."
+      ],
+      "notes": ""
+    },
+  
+    {
+      "id": "mangsho-karai",
+      "title": "Mangsho Karai",
+      "origin": "Baba",
+      "image": "images/mangsho-karai.jpg",
+      "description": "Mangsho = meat (beef).",
+      "category": ["Curry", "Beef", "Bengali"],
+      "ingredients": [
+        "beef",
+        "cardamom",
+        "red onion",
+        "cumin",
+        "coriander",
+        "kashmiri pepper",
+        "ginger paste",
+        "garlic paste",
+        "tomatoes",
+        "yogurt",
+        "butter",
+        "ghee"
+      ],
+      "steps": [
+        "Put beef in the pressure cooker for 30 minutes with cardamom to make it tender.",
+        "Add in sliced red onion and spice mix.",
+        "Add cumin, coriander, lots of kashmiri pepper, ginger and garlic paste.",
+        "Add in sliced large tomato.",
+        "Add in yogurt.",
+        "Turn down the flame and cover for 20 minutes."
+      ],
+      "notes": "Baba added two full sticks of butter. Ghee is better."
+    },
+  
+    {
+      "id": "mach-masala",
+      "title": "Mach Masala",
+      "origin": "Baba",
+      "image": "images/mach-masala.jpg",
+      "description": "Mach = fish.",
+      "category": ["Curry", "Seafood", "Bengali"],
+      "ingredients": [
+        "green pepper",
+        "coriander seeds",
+        "cumin seeds",
+        "onion",
+        "catfish",
+        "cumin powder",
+        "coriander powder",
+        "turmeric",
+        "kashmiri pepper",
+        "red pepper",
+        "black pepper",
+        "garlic paste",
+        "salt",
+        "water",
+        "tomato"
+      ],
+      "steps": [
+        "In a pan put green pepper, coriander and cumin seed and fry with onion.",
+        "Chop catfish into smaller pieces.",
+        "Prepare spices: cumin, coriander powder, turmeric, kashmiri pepper, red and black pepper, garlic paste, salt.",
+        "Add water while cooking spices.",
+        "Add in sliced tomato.",
+        "Add in fish and mix WELL.",
+        "Once cooked, do not stir or fish will fall apart."
+      ],
+      "notes": "No ginger paste for fish."
+    },
+    
+      {
+        "id": "khoresh-bademjan",
+        "title": "Khoresh Bademjan",
+        "origin": "Mommy",
+        "image": "images/khoresh-bademjan.jpg",
+        "description": "Eggplant stew.",
+        "category": ["Curry", "Chicken", "Persian"],
+        "ingredients": [
+          "eggplant",
+          "onion",
+          "chicken",
+          "turmeric",
+          "black pepper",
+          "salt",
+          "saffron",
+          "tomato paste",
+          "tomatoes",
+          "lemon",
+          "oil"
+        ],
+        "steps": [
+          "Prepare saffron by soaking it in water or microwaving briefly, then strain.",
+          "Salt eggplants and let sit for at least 15 minutes, rinse and pat dry.",
+          "Roast eggplants in oven to soften.",
+          "Fry and soften onions.",
+          "Add chicken, turmeric, salt and black pepper.",
+          "Fry together until slightly brown.",
+          "Add tomato paste and tomatoes.",
+          "Add lemon juice.",
+          "Add saffron water for Iranian taste.",
+          "Cook on medium or medium-low heat.",
+          "Toward the end, add eggplant.",
+          "Cook for at least one hour, preferably closer to one and a half hours."
+        ],
+        "notes": "Tomato cannot be cooked on high heat or it will burn."
+      },
+    
+      {
+        "id": "baghali-polo",
+        "title": "Baghali Polo",
+        "origin": "Mommy",
+        "image": "images/baghali-polo.jpg",
+        "description": "",
+        "category": ["Rice", "Persian"],
+        "ingredients": [
+          "rice",
+          "potatoes",
+          "oil",
+          "coriander",
+          "salt",
+          "black pepper",
+          "lima beans",
+          "dill",
+          "onion"
+        ],
+        "steps": [
+          "Make white rice.",
+          "Put thin slices of potato at the bottom of the pan with oil, coriander, salt and pepper.",
+          "Layer rice on top.",
+          "Add a layer of lima beans.",
+          "Add a layer of dill.",
+          "Add another layer of rice and dill.",
+          "Bake at 270 degrees for 60 minutes.",
+          "Add caramelized onions on top."
+        ],
+        "notes": ""
+      },
+    
+      {
+        "id": "lebanese-spinach-pies",
+        "title": "Lebanese Spinach Pies (Fatayer)",
+        "origin": "Mommy",
+        "image": "images/lebanese-spinach-pies.jpg",
+        "description": "",
+        "category": ["Curry", "Seafood", "Persian"],
+        "ingredients": [
+          "yeast",
+          "sugar",
+          "1.5 cups water",
+          "3 cups flour",
+          "onion",
+          "oil",
+          "garlic",
+          "red chili flakes",
+          "salt",
+          "spinach",
+          "parsley",
+          "lemon",
+          "sumac"
+        ],
+        "steps": [
+          "Mix yeast with 1 teaspoon sugar.",
+          "Add 1.5 cups water.",
+          "Add 3 cups flour and stir.",
+          "Punch and squeeze the dough 200 times.",
+          "Keep adding white flour as needed.",
+          "Dice onions and fry in oil until brown.",
+          "Add garlic cloves and lightly fry.",
+          "Add red chili flakes and salt.",
+          "Add frozen spinach and parsley.",
+          "Add lemon and sumac.",
+          "Fill dough and bake."
+        ],
+        "notes": ""
+      },
+    
+      {
+        "id": "havij-polo",
+        "title": "Havij Polo (Shirin Polo / Carrot Rice)",
+        "origin": "Mommy",
+        "image": "images/havij-polo.jpg",
+        "description": "",
+        "category": ["Rice", "Beef", "Persian"],
+        "ingredients": [
+          "onion",
+          "ground beef",
+          "cinnamon",
+          "turmeric",
+          "black pepper",
+          "carrots",
+          "raisins",
+          "rice",
+          "salt",
+          "saffron",
+          "oil"
+        ],
+        "steps": [
+          "Fry onions.",
+          "Add ground beef, cinnamon, turmeric and black pepper.",
+          "Fry matchstick carrots separately.",
+          "Fry raisins separately.",
+          "Cook rice in salted water and drain.",
+          "Layer rice, meat, carrots and raisins.",
+          "Add saffron water if desired.",
+          "Bake at 295 degrees for up to one hour."
+        ],
+        "notes": "Raisins burn quickly. Saffron is optional."
+      },
+    
+      {
+        "id": "pickle-chicken",
+        "title": "Pickle Chicken",
+        "origin": "Mommy",
+        "image": "images/pickle-chicken.jpg",
+        "description": "",
+        "category": ["Curry", "Chicken"],
+        "ingredients": [
+          "onion",
+          "potatoes",
+          "bay leaf",
+          "cardamom",
+          "cinnamon",
+          "cloves",
+          "cumin seeds",
+          "coriander powder",
+          "turmeric",
+          "black pepper",
+          "red pepper",
+          "garlic paste",
+          "ginger paste",
+          "pickle",
+          "chicken",
+          "oil",
+          "tomatoes"
+        ],
+        "steps": [
+          "Fry onions and potatoes with bay leaf, cardamom, cinnamon, cloves, cumin seeds, coriander powder, turmeric, black pepper, red pepper.",
+          "Add garlic and ginger paste.",
+          "Add pickle (1-2 spoons).",
+          "Add small chicken pieces.",
+          "Fry together generously with oil.",
+          "Put lid on and add tomatoes."
+        ],
+        "notes": "Ginger won’t burn but garlic will, so add garlic right before chicken."
+      },
+    
+      {
+        "id": "green-bean-rice",
+        "title": "Green Bean Rice (Loobia Polo)",
+        "origin": "Mommy",
+        "image": "images/green-bean-rice.jpg",
+        "description": "",
+        "category": ["Rice", "Beef", "Persian"],
+        "ingredients": [
+          "onion",
+          "meat",
+          "turmeric",
+          "black pepper",
+          "cinnamon",
+          "tomato sauce",
+          "tomato paste",
+          "green beans",
+          "oil",
+          "salt",
+          "rice",
+          "saffron"
+        ],
+        "steps": [
+          "Fry onion.",
+          "Add small pieces of meat and cook around 2 hours.",
+          "Add turmeric and black pepper.",
+          "Optional: dash of cinnamon.",
+          "Add tomato sauce or paste near the end.",
+          "Roast green beans in oven with oil, salt and pepper.",
+          "Add green beans to meat mixture.",
+          "Dry mixture so rice is not soggy.",
+          "Cook rice in salted water and drain.",
+          "Add saffron water to rice if desired.",
+          "Bake in oven at 295-300 for about one hour."
+        ],
+        "notes": "Some people make it vegetarian or cook meat separately."
+      },
+    
+      {
+        "id": "tachin-joojeh",
+        "title": "Tachin Joojeh",
+        "origin": "Mommy",
+        "image": "images/tachin-joojeh.jpg",
+        "description": "Yogurt rice with chicken.",
+        "category": ["Rice", "Chicken", "Persian"],
+        "ingredients": [
+          "onion",
+          "oil",
+          "turmeric",
+          "black pepper",
+          "salt",
+          "chicken",
+          "rice",
+          "saffron",
+          "egg yolk",
+          "yogurt"
+        ]
+        ,
+        "steps": [
+          "Fry onions.",
+          "Add turmeric, black pepper and salt.",
+          "Slow cook chicken until cooked through.",
+          "Cool chicken and shred.",
+          "Cook rice to al dente and drain.",
+          "Prepare saffron with hot water.",
+          "Mix egg yolk with yogurt.",
+          "Oil casserole dish.",
+          "Mix or layer rice, yogurt mixture, chicken and onions.",
+          "Bake at 300-350 degrees until bottom is golden brown."
+        ],
+        "notes": "Takes around an hour and a half."
+      },
+    
+      {
+        "id": "albaloo-polo",
+        "title": "Albaloo Polo",
+        "origin": "Mommy",
+        "image": "images/albaloo-polo.jpg",
+        "description": "Persian sour cherry rice.",
+        "category": ["Rice", "Beef", "Persian"],
+        "ingredients": [
+          "onion",
+          "oil",
+          "sour cherries",
+          "ground meat",
+          "salt",
+          "turmeric",
+          "black pepper",
+          "rice",
+          "saffron",
+          "water"
+        ]
+        ,
+        "steps": [
+          "Fry onions.",
+          "Add frozen sour cherries.",
+          "Cook together briefly.",
+          "Prepare meatballs with grated onion, salt, turmeric and black pepper.",
+          "Cook meatballs slowly on low flame.",
+          "Prepare rice and saffron separately.",
+          "Layer rice, cherries and meatballs.",
+          "Bake at 295 degrees for about an hour."
+        ],
+        "notes": ""
+      },
+    
+      {
+        "id": "abgoosht",
+        "title": "Abgoosht",
+        "origin": "Mommy",
+        "image": "images/abgoosht.jpg",
+        "description": "Iranian village stew.",
+        "category": ["Stew", "Beef", "Persian"],
+        "ingredients": [
+          "lamb shank",
+          "onion",
+          "chickpeas",
+          "turmeric",
+          "tomato paste",
+          "salt",
+          "black pepper",
+          "water",
+          "dried limes",
+          "cilantro",
+          "garlic powder",
+          "potatoes"
+        ]
+        ,
+        "steps": [
+          "Put lamb shank, onion slices, chickpeas, turmeric, tomato paste, salt and black pepper in pressure cooker.",
+          "Add lots of water.",
+          "Add dried limes with holes poked in them.",
+          "Add cilantro and garlic powder if desired.",
+          "Cook for 2 hours.",
+          "Transfer to pot and add large potato cubes.",
+          "Slightly smash potatoes to thicken soup."
+        ],
+        "notes": "Literal meaning: water, meat."
+      },
+      {
+        "id": "babas-common-salad",
+        "title": "Baba’s Common Salad",
+        "origin": "Baba",
+        "image": "images/babas-common-salad.jpg",
+        "description": "",
+        "category": ["Curry", "Seafood", "Pakistani"],
+        "ingredients": [
+          "tomatoes",
+          "red onion",
+          "cilantro",
+          "lemon",
+          "salt"
+        ],
+        "steps": [
+          "Dice tomatoes and red onion.",
+          "Chop a lot of fresh cilantro.",
+          "Mix everything together in a bowl.",
+          "Squeeze fresh lemon juice on top.",
+          "Add salt to taste and mix well."
+        ],
+        "notes": ""
+      }
+,
+{
+  "id": "tandoori-chicken",
+  "title": "Tandoori Chicken",
+  "origin": "Baba",
+  "image": "images/tandoori-chicken.jpg",
+  "description": "",
+  "category": ["Curry", "Seafood", "Pakistani"],
+  "ingredients": [
+    "chicken (legs or breasts, skin on)",
+    "tandoori masala powder",
+    "yogurt (1 tablespoon per chicken)",
+    "lemon (1 per chicken)",
+    "ginger garlic paste (1 tablespoon)",
+    "sweetened date tamarind sauce (2 tablespoons)"
+  ],
+  "steps": [
+    "Cut chicken and slice deeply so spices can go inside. Do not remove skin.",
+    "Make the masala: mix yogurt, lemon juice, ginger garlic paste, sweetened date tamarind sauce, and tandoori masala.",
+    "Apply masala to both sides of the chicken.",
+    "Preheat oven to 500°F on broil.",
+    "Broil chicken, turning as needed, until fully cooked and charred. Takes around 1 hour."
+  ],
+  "notes": "Baba: “You go as you cook.”"
+},
+{
+  "id": "chingri-malai",
+  "title": "Chingri Malai",
+  "origin": "Baba",
+  "image": "images/chingri-malai.jpg",
+  "description": "Shrimp curry.",
+  "category": ["Curry", "Seafood", "Bengali"],
+  "ingredients": [
+    "shrimp",
+    "onion",
+    "potatoes",
+    "garlic paste",
+    "ginger paste",
+    "cumin",
+    "coriander",
+    "turmeric",
+    "tomatoes",
+    "water (½ cup)",
+    "peas (frozen)",
+    "oil",
+    "fresh ginger or coriander (for garnish)"
+  ],
+  "steps": [
+    "Peel shrimp and make sure they are completely dry.",
+    "Brown onions slightly, then add potato cubes.",
+    "Add garlic paste, ginger paste, cumin, coriander and a small amount of turmeric.",
+    "Turn flame down and cook for 2–3 minutes.",
+    "Add chunks of tomatoes.",
+    "When tomatoes melt and oil separates, add ½ cup water.",
+    "Add shrimp and peas together and cook on low flame for 10 minutes.",
+    "Increase flame to dry the curry so shrimp are not soggy.",
+    "Garnish with ginger or coriander leaves."
+  ],
+  "notes": ""
+},
+{
+  "id": "begoon-aloo-chingri",
+  "title": "Begoon, Aloo Ebong Chingri",
+  "origin": "Baba",
+  "image": "images/begoon-aloo-chingri.jpg",
+  "description": "Eggplant, potato and shrimp.",
+  "category": ["Seafood", "Bengali"],
+  "ingredients": [
+    "eggplant",
+    "potatoes (tiny cubes)",
+    "peas",
+    "onion",
+    "cumin",
+    "garlic paste",
+    "turmeric",
+    "coriander",
+    "tomato sauce",
+    "shrimp",
+    "butter",
+    "oil"
+  ],
+  "steps": [
+    "Cook peas and potato cubes with onion and eggplant in a pan. Do not make eggplant mushy.",
+    "Add cumin, garlic paste, turmeric, coriander and tomato sauce.",
+    "Cook on HIGH flame.",
+    "In a separate pan, sauté shrimp in butter.",
+    "Mix shrimp into vegetable mixture and garnish."
+  ],
+  "notes": ""
+},
+{
+  "id": "bihari-kebab",
+  "title": "Bihari Kebab",
+  "origin": "Baba",
+  "image": "images/bihari-kebab.jpg",
+  "description": "",
+  "category": ["Beef", "Pakistani"],
+  "ingredients": [
+    "beef (very thin slices or small cubes)",
+    "onion",
+    "ginger paste",
+    "salt",
+    "cumin powder",
+    "coriander powder",
+    "yogurt (lots)",
+    "lemon juice",
+    "fresh coriander",
+    "green pepper",
+    "papaya paste (1 tablespoon)",
+    "bihari masala",
+    "oil"
+  ],
+  "steps": [
+    "Fry onions until brown. No garlic.",
+    "Add ginger paste, salt, cumin and coriander powder and cook briefly.",
+    "Blend fried onions with LOTS of yogurt, lemon juice, coriander and green pepper.",
+    "Add 1 tablespoon papaya paste.",
+    "After mixture cools, add Bihari masala.",
+    "Spread masala on each meat slice and stack them.",
+    "Refrigerate for 24 hours.",
+    "Next day, cook uncovered on pan, oven or charcoal with very little oil."
+  ],
+  "notes": "Best cooked on charcoal. Do not cover while cooking or meat will release water."
+},
+{
+  "id": "arvi-chingri-johl",
+  "title": "Arvi Chingri Johl",
+  "origin": "Baba",
+  "image": "images/arvi-chingri-johl.jpg",
+  "description": "Taro root and shrimp curry.",
+  "category": ["Stew", "Seafood", "Bengali"],
+  "ingredients": [
+    "shrimp",
+    "oil",
+    "onion",
+    "garlic paste",
+    "kashmiri pepper",
+    "red pepper",
+    "black pepper",
+    "cumin",
+    "coriander",
+    "arvi (taro root)",
+    "water"
+  ],
+  "steps": [
+    "Sauté shrimp in lots of oil until crunchy. Remove and set aside.",
+    "Brown onions in pan.",
+    "Prepare spices: garlic paste, kashmiri pepper, red pepper, black pepper, cumin and coriander.",
+    "Add spices to onions with some water and lower flame.",
+    "Add arvi and a LOT of water to make curry."
+  ],
+  "notes": ""
+},
+{
+  "id": "murghi-rezala",
+  "title": "Murghi Rezala",
+  "origin": "Baba",
+  "image": "images/murghi-rezala.jpg",
+  "description": "Wedding-style chicken.",
+  "category": ["Curry", "Seafood", "Pakistani"],
+  "ingredients": [
+    "chicken",
+    "ghee",
+    "onion (raw, blended)",
+    "garlic paste (1 teaspoon)",
+    "ginger paste (1 teaspoon)",
+    "raisins",
+    "apricots",
+    "cashews",
+    "yogurt",
+    "green pepper",
+    "caramelized onions"
+  ],
+  "steps": [
+    "Fry chicken in ghee until slightly brown.",
+    "Add raw onion paste.",
+    "Cook until onion browns and water releases from chicken.",
+    "Add garlic and ginger paste.",
+    "Cook until oil separates.",
+    "Add raisins or apricots.",
+    "Add cashew paste mixed with yogurt and cook on low flame.",
+    "Add sliced green pepper.",
+    "Top with caramelized onions."
+  ],
+  "notes": "Biabani (wedding) style."
+},
+{
+  "id": "chaat-chola-masala",
+  "title": "Chaat / Chola Masala",
+  "origin": "Baba",
+  "image": "images/chaat.jpg",
+  "description": "",
+  "category": ["Vegetarian", "Pakistani"],
+  "ingredients": [
+    "chickpeas",
+    "potatoes",
+    "tomatoes",
+    "red onion",
+    "cilantro",
+    "chola masala",
+    "date tamarind chutney",
+    "water"
+  ],
+  "steps": [
+    "Pressure cook chickpeas and potato cubes for 3 whistles.",
+    "Dice tomatoes, red onion and cilantro.",
+    "Smash some potatoes and chickpeas to make sauce.",
+    "Add everything including cooking water to bowl.",
+    "Mix in chola masala and date tamarind chutney."
+  ],
+  "notes": ""
+},
+{
+  "id": "aunti-kooris-daal",
+  "title": "Aunti Koori’s Daal",
+  "origin": "Aunti Koori",
+  "image": "images/aunti-kooris-daal.jpg",
+  "description": "",
+  "category": ["Daal", "Vegetarian", "Bengali"],
+  "ingredients": [
+    "red lentils",
+    "onion",
+    "garlic paste",
+    "ginger paste",
+    "coriander",
+    "red pepper powder",
+    "whole dried red peppers",
+    "turmeric",
+    "cumin",
+    "salt",
+    "water",
+    "ghee"
+  ],
+  "steps": [
+    "Put red lentils and raw onions in pressure cooker.",
+    "Add garlic paste, ginger paste, coriander, red pepper powder, whole red peppers, turmeric and cumin.",
+    "Add salt and water.",
+    "Cook until lentils are soft.",
+    "Fry onions in ghee and add on top."
+  ],
+  "notes": ""
+},
+{
+  "id": "babas-daal",
+  "title": "Baba’s Daal",
+  "origin": "Baba",
+  "image": "images/babas-daal.jpg",
+  "description": "",
+  "category": ["Daal", "Vegetarian", "Bengali"],
+  "ingredients": [
+    "water",
+    "tomatoes (2)",
+    "onion (½ sliced)",
+    "turmeric",
+    "salt",
+    "masoor dal (½ cup)",
+    "chana dal (½ cup)",
+    "ghee (2 tablespoons)",
+    "garlic cloves (6–8)",
+    "cilantro"
+  ],
+  "steps": [
+    "Put water, tomatoes, onion, turmeric, salt and lentils into pot or pressure cooker.",
+    "Cook until everything melts together.",
+    "Fry remaining onion in ghee until brown but not caramelized.",
+    "Add chopped garlic and fry until fragrant.",
+    "Pour garlic mixture over daal.",
+    "Add handful of cilantro."
+  ],
+  "notes": ""
+}
+
+
+
+
+
+
+
+
+
+  ]
+

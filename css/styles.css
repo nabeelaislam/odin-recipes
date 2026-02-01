@@ -1,0 +1,276 @@
+/* =========================
+   GOOGLE FONTS (REQUIRED)
+   ========================= */
+   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Playfair+Display:wght@500;600;700&display=swap');
+
+:root {
+    --bg-cream: #FBF6EE;
+    --card-yellow: #f5e6b7;
+    --deep-red: #8C1D18;
+    --saffron: #E3A166;
+    --emerald: #0FA58A;
+    --royal-blue: #1E3DB3;
+    --dark-green: #1F3D2B;
+    --text-dark: #2A2A2A;
+    --shadow-soft: 0 12px 30px rgba(0, 0, 0, 0.12);
+
+    --web-white: #f2f2f2;
+    --white: #ffffff;
+    --web-blue: #c8d8e4;
+    --web-dark-blue: #2b6777;
+    --web-green: #52ab98;
+
+  }
+  
+  /* RESET */
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* PAGE */
+
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    background-color: var(--web-white);
+    color: var(--dark-green);
+    padding: 3rem 2rem;
+  }
+  
+  
+  h1 {
+    font-size: 3rem;
+    font-weight: 900;
+    margin-bottom: 0.5rem;
+  }
+  h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 0.02em;
+  }  
+  
+  p {
+    margin-bottom: 2rem;
+    color: #444;
+  }
+  
+  /* GRID */
+  #recipe-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 2rem;
+  }
+  
+  /* CARD */
+  .recipe-card {
+    background-color: var(--web-blue);
+    border-radius: 20px;
+    padding: 1rem;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .recipe-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 45px rgba(0,0,0,0.2);
+  }
+  
+  /* IMAGE */
+  .recipe-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 14px;
+    background-color: var(--sage);
+    margin-bottom: 1rem;
+  }
+  
+  /* TEXT */
+  .recipe-card h3 {
+    font-size: 1.1rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 0.4rem;
+  }
+  
+  .recipe-card p {
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
+    color: #2b2b2b;
+  }
+  
+  /* TAG */
+  .recipe-card span {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.35rem 0.6rem;
+    border-radius: 999px;
+    background-color: var(--web-dark-blue);
+    color: white;
+  }
+  /* ---------- RECIPE PAGE ---------- */
+
+.recipe-page {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .recipe-page h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .recipe-origin {
+    display: inline-block;
+    background: var(--web-dark-blue);
+    color: white;
+    padding: 0.4rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .recipe-image {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 18px;
+    margin: 1.5rem 0;
+    background: var(--sage);
+  }
+  
+  .recipe-description {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .recipe-page h2 {
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .recipe-page ul,
+  .recipe-page ol {
+    padding-left: 1.5rem;
+  }
+  
+  .recipe-page li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .recipe-notes {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 14px;
+    margin-top: 2rem;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  }
+  
+/* Remove underline from links in cards & notes */
+.recipe-card a,
+.recipe-notes a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Optional: subtle hover instead of underline */
+.recipe-card a:hover,
+.recipe-notes a:hover {
+  opacity: 0.85;
+}
+
+/* REMOVE underline from ALL recipe links */
+a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Prevent underline on hover/focus/visited */
+  a:hover,
+  a:focus,
+  a:visited {
+    text-decoration: none;
+  }
+  
+  .recipe-card {
+    border: 1px solid rgba(0, 0, 0, 0.05);
+  }
+  
+  .recipe-card:hover img {
+    transform: scale(1.01);
+    transition: transform 0.3s ease;
+  }
+  
+  .filters {
+    margin-bottom: 2rem;
+  }
+  
+  #searchInput {
+    width: 100%;
+    max-width: 360px;
+    padding: 0.75rem 1rem;
+    border-radius: 999px;
+    border: none;
+    font-size: 0.9rem;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+    outline: none;
+  }
+  
+  #searchInput::placeholder {
+    color: #666;
+  }
+  
+  .filters {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+  }
+  
+  /* Dropdown container */
+.filter-dropdown {
+    position: relative;
+    background: white;
+    border-radius: 999px;
+    padding: 0.5rem 1rem;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    cursor: pointer;
+    min-width: 140px;
+  }
+  
+  /* Summary button */
+  .filter-dropdown summary {
+    list-style: none;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  
+  /* Hide default arrow */
+  .filter-dropdown summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  /* OPEN STATE */
+  .filter-dropdown[open] {
+    border-radius: 16px;
+    padding-bottom: 1rem;
+  }
+  
+  /* Dropdown content spacing */
+  .filter-dropdown[open] summary {
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+    padding-bottom: 0.4rem;
+  }
+  
+  /* Checkbox list */
+  .filter-dropdown label {
+    display: block;
+    margin-top: 0.5rem;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  
+  
