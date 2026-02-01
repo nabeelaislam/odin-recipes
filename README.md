@@ -35,7 +35,7 @@ Everything is written from scratch to reinforce core front-end fundamentals.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 odin-recipes/
 │
 ├── index.html # Main recipe grid + filters
